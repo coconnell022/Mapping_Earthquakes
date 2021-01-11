@@ -5,7 +5,7 @@ The purpose of this project was to create interactive maps to showcase earthquak
 
 ## Results
 
-![alt text](https://github.com/coconnell022/BB_pages/blob/main/ImagesReadMe/dashboard.png?raw=true)
+![alt text](https://github.com/coconnell022/Mapping_Earthquakes/blob/main/Images/Challenge_Image.png?raw=true)
 
 
         Caroline O'Connell
